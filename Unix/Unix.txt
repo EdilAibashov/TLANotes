@@ -1,0 +1,2 @@
+Unix is father of Linux 
+Linux is child of Unix
